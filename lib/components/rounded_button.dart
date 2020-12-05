@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class LoginButton extends StatelessWidget {
-  LoginButton(
+class RoundedButton extends StatelessWidget {
+  RoundedButton(
       {@required this.text, @required this.color, @required this.onTap});
 
   final String text;
